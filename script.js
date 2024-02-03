@@ -3,7 +3,7 @@ let options = [
     'R u sure?',
     'Maybe change your mind?',
     'Think again!',
-    'U missklicked, right?',
+    'U missclicked, right?',
     'Last chance!',
     'Reconsider?',
     "Don't be so mean :(",
