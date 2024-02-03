@@ -6,7 +6,9 @@ let options = [
     'U missklicked, right?',
     'Last chance!',
     'Reconsider?',
-    "Don't be so mean :("
+    "Don't be so mean :(",
+    'Pls',
+    'You might regret!'
 ];
 
 let yesbtn = document.getElementById('yesbtn');
